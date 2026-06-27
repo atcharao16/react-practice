@@ -2,6 +2,81 @@
   text-align: center;
 }
 
+.pd-2px{
+  padding:  2px;
+}
+
+.mr-4px{
+  margin: 4px;
+}
+.heading  h3{
+  text-align: center;
+}
+
+.homepage{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gray{
+  background-color: gray;
+}
+
+.aqua{
+  background-color: aqua;
+}
+.homepage ul{
+  list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +110,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
