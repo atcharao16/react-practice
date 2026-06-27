@@ -1,10 +1,10 @@
-#React Practice Repository 🚀
+# React Practice Repository 🚀
 
 A collection of React concepts, hooks, routing examples, and Redux Toolkit practice projects created while learning React from basics to advanced topics.
 
-##Topics Covered
+## Topics Covered
 
-###React Basics
+### React Basics
 
 - JSX
 - Components
@@ -14,7 +14,7 @@ A collection of React concepts, hooks, routing examples, and Redux Toolkit pract
 - Lists and Keys
 - Event Handling
 
-###React Hooks
+###  React Hooks
 
 - useState
 - useEffect
@@ -22,7 +22,7 @@ A collection of React concepts, hooks, routing examples, and Redux Toolkit pract
 - useReducer
 - useContext
 
-###React Router
+### React Router
 
 - BrowserRouter
 - Routes
@@ -34,7 +34,7 @@ A collection of React concepts, hooks, routing examples, and Redux Toolkit pract
 - useLocation
 - useSearchParams
 
-###Redux Toolkit
+### Redux Toolkit
 
 - configureStore
 - createSlice
@@ -46,7 +46,7 @@ A collection of React concepts, hooks, routing examples, and Redux Toolkit pract
 - Todo Application
 - UUID Integration
 
-##Technologies Used
+## Technologies Used
 
 - React
 - React Router DOM
@@ -57,25 +57,25 @@ A collection of React concepts, hooks, routing examples, and Redux Toolkit pract
 - HTML
 - CSS
 
-##Installation
+## Installation
 
 Clone the repository
 
-git clone <repository-url>
+```git clone <repository-url>```
 
 Navigate to project directory
 
-cd project-name
+```cd project-name```
 
 Install dependencies
 
-npm install
+```npm install```
 
 Start development server
 
-npm run dev
+```npm run dev```
 
-Learning Goals
+## Learning Goals
 
 This repository is maintained for:
 
